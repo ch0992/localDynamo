@@ -10,7 +10,7 @@
     "read-data": "node ./src/dynamo/readDataTest.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.594.0",
+    "aws-sdk": "^2.814.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
